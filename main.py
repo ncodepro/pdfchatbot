@@ -32,7 +32,7 @@ query = "What does Naval's thought about on how to be happy"
 docs = docsearch.get_relevant_documents(query)
 
 # Load a question answering chain with OpenAI's model (temperature of 0 means deterministic responses).
-# Chain_type is set to "stuff", but this would depend on the actual library's implementation.
+# Chain_type is set to "stuff".
 chain = load_qa_chain(OpenAI(temperature=0), chain_type="stuff")
 
 # Run the question answering chain with the relevant documents and the query.

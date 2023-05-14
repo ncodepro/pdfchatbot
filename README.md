@@ -10,7 +10,7 @@ Code is up now, ⭐ (Star) the repo to receive updates
 
 Replit and Colab version coming soon
 
-Follow Ankur Singh on twitter for updates
+Follow Ankur Singh [https://twitter.com/ankur_maker] on twitter for updates
 
 How to run ? (Things might change based on OS)
 

@@ -24,5 +24,7 @@ Run "python main.py"
 
 Change pdf file path and ask other questions
 
+To run streamlit app, follow the steps run "streamlit run streamlitui.py"
+
 Demo link
 https://heybot.thesamur.ai/
